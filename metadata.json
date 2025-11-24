@@ -1,0 +1,7 @@
+{
+  "name": "BKH Homes",
+  "description": "Ứng dụng web/mobile về bất động sản với chức năng xem, tìm, lọc, đăng tin, quản lý, chat và bản đồ, tương tự batdongsan.com.vn.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
